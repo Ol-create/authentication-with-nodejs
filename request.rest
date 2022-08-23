@@ -4,7 +4,7 @@ GET http://localhost:3000/users
 
 POST http://local:3000/users
 
-content-Type: application/json
+Content-Type: application/json
 
 {
 	"name": "oluyemi",
